@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 322971165c83bc248b209a422af61251
+  - enabled: 1
+    path: Assets/Scenes/Level one.unity
+    guid: 09a9f9fb033989546ac5e65dc2635e99
+  - enabled: 1
+    path: Assets/Scenes/Level two.unity
+    guid: 13669e920d43f3844b53e72668e6d9e7
+  - enabled: 1
+    path: Assets/Scenes/Le Mans.unity
+    guid: 1e2e4ed20b779b14086eeb1bdfefc821
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6709abd85bf04c145b8900bd447470b7
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: d8c884b23bc75e54f85cee0e7c49c8ad
+  m_configObjects: {}
